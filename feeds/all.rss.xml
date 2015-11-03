@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<rss version="2.0">
+ <channel>
+  <title>Cookpet: Cookpet</title>
+  <description>Cookpet: Cookpet</description>
+  <link>http://yoshi-a.github.io/index.html</link>
+  <lastBuildDate>Tue, 03 Nov 2015 09:26:30 UT</lastBuildDate>
+  <pubDate>Tue, 03 Nov 2015 09:26:30 UT</pubDate>
+  <ttl>1800</ttl>
+  <item>
+   <title>test</title>
+   <link>http://yoshi-a.github.io/blog/2015/11/03/test/?utm_source=all&amp;utm_medium=RSS</link>
+   <guid>urn:http-yoshi-a-github-io:-blog-2015-11-03-test</guid>
+   <pubDate>Tue, 03 Nov 2015 09:26:30 UT</pubDate>
+   <description>&lt;html&gt;
+&lt;p&gt;むかしむかしあるところにおじいさんとおばあさんとチンピラがおりました&lt;/p&gt;
+&lt;!-- more--&gt;&lt;/html&gt;</description></item></channel></rss>

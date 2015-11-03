@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+ <title type="text">Cookpet: Cookpet</title>
+ <link rel="self" href="http://yoshi-a.github.io/feeds/all.atom.xml" />
+ <link href="http://yoshi-a.github.io/index.html" />
+ <id>urn:http-yoshi-a-github-io:-index-html</id>
+ <updated>2015-11-03T09:26:30Z</updated>
+ <entry>
+  <title type="text">test</title>
+  <link rel="alternate" href="http://yoshi-a.github.io/blog/2015/11/03/test/?utm_source=all&amp;utm_medium=Atom" />
+  <id>urn:http-yoshi-a-github-io:-blog-2015-11-03-test</id>
+  <published>2015-11-03T09:26:30Z</published>
+  <updated>2015-11-03T09:26:30Z</updated>
+  <author>
+   <name>Yosssy</name></author>
+  <content type="html">&lt;html&gt;
+&lt;p&gt;むかしむかしあるところにおじいさんとおばあさんとチンピラがおりました&lt;/p&gt;
+&lt;!-- more--&gt;&lt;/html&gt;</content></entry></feed>
