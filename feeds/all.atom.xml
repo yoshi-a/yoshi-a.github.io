@@ -4,7 +4,18 @@
  <link rel="self" href="http://yoshi-a.github.io/feeds/all.atom.xml" />
  <link href="http://yoshi-a.github.io/index.html" />
  <id>urn:http-yoshi-a-github-io:-index-html</id>
- <updated>2015-11-03T09:26:30Z</updated>
+ <updated>2015-11-03T10:13:56Z</updated>
+ <entry>
+  <title type="text">test2</title>
+  <link rel="alternate" href="http://yoshi-a.github.io/blog/2015/11/03/test2/?utm_source=all&amp;utm_medium=Atom" />
+  <id>urn:http-yoshi-a-github-io:-blog-2015-11-03-test2</id>
+  <published>2015-11-03T10:13:56Z</published>
+  <updated>2015-11-03T10:13:56Z</updated>
+  <author>
+   <name>Yosssy</name></author>
+  <content type="html">&lt;html&gt;
+&lt;p&gt;心優しいチンピラはおばあさんのイビリに耐えかね鬼へと姿を変えるのでした&lt;/p&gt;
+&lt;!-- more--&gt;&lt;/html&gt;</content></entry>
  <entry>
   <title type="text">test</title>
   <link rel="alternate" href="http://yoshi-a.github.io/blog/2015/11/03/test/?utm_source=all&amp;utm_medium=Atom" />
